@@ -355,24 +355,18 @@ THE SOFTWARE.
 
 @angular/material/tooltip
 
-@angular/material/sidenav
+@angular/material/button
 
 @angular/material/toolbar
+
+@angular/material/icon
+
+@angular/material/stepper
 
 @angular/forms
 MIT
 
-@angular/material/core
-
-@angular/material/list
-
-@angular/material/button
-
-@angular/material/icon
-
-@angular/material/menu
-
-@angular/material/tabs
+@angular/material/form-field
 
 zone.js
 MIT
