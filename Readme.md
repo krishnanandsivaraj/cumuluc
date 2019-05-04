@@ -25,7 +25,7 @@ Please refer the executive presentation or the video attached in HackerEarth sub
 
 A Simple note
 ```
-    All the technologies that are used in the hackathon are there not because they are new but because it suits our need  
+    All the technologies used in this hackathon are there not because they are new but because it suits our need  
     * We have decided to go with aws because AWS works with our requirements.
     * We have used NodeJS because we wanted our upload codebase to be simple.
     * We have used C# lambdas for concurrency and multi threaded operations.
