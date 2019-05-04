@@ -13,7 +13,8 @@ Please refer the executive presentation or the video attached in HackerEarth sub
 
 * Function as a Service (FaaS)
 
-![image](smart-inspect-arch.png?raw=true)
+
+<img src='smart-inspect-arch.png'/>
 
 ## Technologies used
 * aws
