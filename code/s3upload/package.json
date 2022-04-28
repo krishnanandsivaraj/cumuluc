@@ -9,7 +9,7 @@
   "author": "Dream Products",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "aws-sdk": "^2.442.0",
     "fs": "0.0.1-security",
     "gm": "^1.23.1",
